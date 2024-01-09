@@ -8,9 +8,9 @@ Se necesita desarrollar una aplicación móvil que sea capaz de interactuar con 
 
 La principal característica de ésta aplicación es que puede conectarse con la API con el objetivo de realizar operaciones tales como:
 
-+Transacciones bancarias.
-+Consultar información del usuario.
-+Visualizar los movimientos del usuario.
++ Transacciones bancarias.
++ Consultar información del usuario.
++ Visualizar los movimientos del usuario.
 
 ### API (que será consumada por la aplicación móvil)
 
@@ -18,9 +18,9 @@ El objetivo de este componente de software es permitir la conexión del usuario 
 
 Al ser la API solo un intermediario entre el usuario (a través de la aplicación móvil) y el core, la API debe de ofrecer de las funciones tales como:
 
-+Realizar una transacción.
-+Realizar una petición a la base de datos pertinente para poder visualizar la información del usuario y poder retornar esta a la aplicación móvil.
-+Realizar la verificación pertinente de los datos cuando se requiera realizar una operación.
++ Realizar una transacción.
++ Realizar una petición a la base de datos pertinente para poder visualizar la información del usuario y poder retornar esta a la aplicación móvil.
++ Realizar la verificación pertinente de los datos cuando se requiera realizar una operación.
 
 ### Servicios de clabes y transferencias
 
